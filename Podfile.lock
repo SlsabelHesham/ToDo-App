@@ -1,0 +1,20 @@
+PODS:
+  - TextFieldEffects (1.6.0)
+  - Toast-Swift (5.0.1)
+
+DEPENDENCIES:
+  - TextFieldEffects
+  - Toast-Swift
+
+SPEC REPOS:
+  trunk:
+    - TextFieldEffects
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  TextFieldEffects: 529b8aff706fb40f82c41c780c0777941a893796
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+
+PODFILE CHECKSUM: c06ce13a4898e96647f4278a00fda8a9e82b2587
+
+COCOAPODS: 1.15.2
